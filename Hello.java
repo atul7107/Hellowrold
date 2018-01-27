@@ -4,7 +4,7 @@ public class Hello{
      public static void main(String[] arg){
 
 
-          for(int i=1;i<=1800;i++){
+          for(int i=1;i<=1100;i++){
 
                System.out.println("Hello World ..."+i);
 
